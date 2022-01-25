@@ -138,6 +138,12 @@ footer{
     .head h1{
         font-size: 28px;
     }
+    .img{
+        border-radius:10px 10px 0px 0px ;
+    }
+    .img img{
+        border-radius:10px 10px 0px 0px ;
+    }
     .para{
         margin: 0px auto;
         width: 80%;
@@ -170,12 +176,9 @@ footer{
     }
     .text{
         height: 440px;
-        /* border: 2px solid white; */
     }
     .stat{
-        width: 90%;
         flex-direction: column;
-        /* border: 2px solid white; */
         width: 40%;
         height: 150px;
     }
